@@ -20,11 +20,11 @@ I started my career with a strong foundation in data analytics, which allowed me
 ## Technical Expertise
 
 My technical skills are at the core of my professional contributions. I am proficient in:
-- *Programming Languages:* Python, SQL
+- *Programming Languages:* Python, R, SQL
 - *Machine Learning:* TensorFlow, scikit-learn, Keras
 - *Data Visualization:* Tableau, Power BI, Matplotlib
 - *Data Management:* Pandas, NumPy, Hadoop, Spark
-- *Tools and Technologies:* Git, Jupyter Notebooks
+- *Tools and Technologies:* Git, Jupyter Notebooks, Docker
 
 ## My Approach
 
