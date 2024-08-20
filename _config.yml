@@ -21,7 +21,7 @@ author: Kavyesh Marella
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.linkedin.com/in/kavyesh-babu-marella-090606204/"
