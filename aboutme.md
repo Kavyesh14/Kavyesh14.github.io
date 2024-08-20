@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kavyesh: Data Science & Risk Analytics Expertise
+title: Kavyesh - Data Science & Risk Analytics Expertise
 subtitle: Transforming Complex Data into Strategic Insights for Business Growth
 ---
 
