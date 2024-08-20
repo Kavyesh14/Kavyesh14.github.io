@@ -20,11 +20,11 @@ I began my career with a focus on data analytics, where I quickly realized the i
 ## My Technical Toolkit
 
 Over the years, I’ve honed a robust set of technical skills that enable me to tackle complex challenges:
-- *Programming Languages:* Proficient in Python, R, SQL
+- *Programming Languages:* Proficient in Python, SQL
 - *Machine Learning:* Skilled in TensorFlow, scikit-learn, Keras
 - *Data Visualization:* Experienced with Tableau, Power BI, Matplotlib
 - *Data Management:* Expertise in Pandas, NumPy, Hadoop, Spark
-- *Tools and Technologies:* Familiar with Git, Jupyter Notebooks, Docker
+- *Tools and Technologies:* Familiar with Git, Jupyter Notebooks
 
 ## How I Work
 
